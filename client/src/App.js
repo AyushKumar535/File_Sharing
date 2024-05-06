@@ -8,7 +8,7 @@ function App() {
 
   const fileInputRef = useRef();
 
-  const url = 'https://i.pinimg.com/originals/16/46/24/1646243661201a0892cc4b1a64fcbacf.jpg';
+  const url = "https://media.istockphoto.com/id/1323868851/vector/document-file-transfer-concept.jpg?s=612x612&w=0&k=20&c=WcnVgnI0W_ZGl4ordBh7lk9IPRFoXxqtDCWlxzvCJtg=";
 
   useEffect(() => {
     const getImage = async () => {

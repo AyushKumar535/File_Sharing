@@ -1,0 +1,82 @@
+// #include<iostream>
+// using namespace std;
+
+// struct Rectangle
+// {
+//     int length;
+//     int breadth;
+//     // int area;
+// };
+
+// int main()
+// {
+//     struct Rectangle r;
+
+//     r.length = 35;
+//     r.breadth= 53;
+
+//     int sum = r.length + r.breadth;
+//     cout<<"Area of rectangle is "<<sum<<endl;                                                                                                                                                            
+// }
+
+
+
+                           /** Commplex Number*/
+
+// #include<iostream>
+// using namespace std;
+
+// struct complex {
+    // int real ,real1;
+    
+// };
+
+// int main()
+// {
+
+//     int a;
+//     int b;
+//     cout<<"Enter first value"<<endl;
+//     cin>>a;
+//     cout<<"Enter second value"<<endl;
+//     cin>>b;
+
+//     struct complex c;
+//     c.real=a;
+//     c.real1=b;
+
+        
+//         cout<<"The value of Complex Number is "<<c.real<<"+"<<c.real1<<"i"<<endl;
+// }
+
+
+
+                                        /** Student Detail's*/
+// #include<iostream>
+// using namespace std;
+
+// struct student
+// {
+//     int roll;
+//     char name[25];
+//     char sub[10];
+//     char address[50];
+// };
+
+// int main()
+// {
+
+//     struct student st;
+//     cout<<"The roll no is :"<<endl;
+//     cin>>st.roll;
+//     cout<<"The name is :"<<endl;
+//     cin>>st.name;
+//     cout<<"The sub is :"<<endl;
+//     cin>>st.sub ;
+//     cout<<"The address is :"<<endl;
+//     cin>>st.address;
+
+//     cout<<"My name - " <<st.name<<" roll no = "<<st.roll<<" sub - "<<st.sub<<" address - "<<st.address;
+// }
+
+
